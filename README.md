@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/forks/kyprexs/ShowCasePro?style=flat-square" alt="Forks">
     <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" alt="Next.js">
     <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript" alt="TypeScript">
-    <img src="https://img.shields.io/github/deployments/kyprexs/ShowCasePro/github-pages?style=flat-square&label=deployment" alt="Deployment">
+    <img src="https://img.shields.io/badge/GitHub_Pages-Ready-brightgreen?style=flat-square&logo=github" alt="GitHub Pages">
   </p>
 </div>
 
