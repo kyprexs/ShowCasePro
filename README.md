@@ -15,11 +15,12 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/github/license/yourusername/showcasepro?style=flat-square" alt="License">
-    <img src="https://img.shields.io/github/stars/yourusername/showcasepro?style=flat-square" alt="Stars">
-    <img src="https://img.shields.io/github/forks/yourusername/showcasepro?style=flat-square" alt="Forks">
+    <img src="https://img.shields.io/github/license/kyprexs/ShowCasePro?style=flat-square" alt="License">
+    <img src="https://img.shields.io/github/stars/kyprexs/ShowCasePro?style=flat-square" alt="Stars">
+    <img src="https://img.shields.io/github/forks/kyprexs/ShowCasePro?style=flat-square" alt="Forks">
     <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" alt="Next.js">
     <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript" alt="TypeScript">
+    <img src="https://img.shields.io/github/deployments/kyprexs/ShowCasePro/github-pages?style=flat-square&label=deployment" alt="Deployment">
   </p>
 </div>
 
@@ -29,7 +30,7 @@ Built with Next.js 14, TypeScript, and Tailwind CSS, ShowcasePro is designed for
 
 ## 🎯 Demo
 
-**[Live Demo](https://your-username.github.io/showcasepro)** | **[Documentation](https://github.com/yourusername/showcasepro/wiki)**
+**[Live Demo](https://kyprexs.github.io/ShowCasePro)** | **[Documentation](https://github.com/kyprexs/ShowCasePro/wiki)**
 
 ### Screenshots
 
@@ -88,8 +89,8 @@ Built with Next.js 14, TypeScript, and Tailwind CSS, ShowcasePro is designed for
 
 1. **Clone this repository**
 ```bash
-git clone https://github.com/yourusername/showcasepro.git
-cd showcasepro
+git clone https://github.com/kyprexs/ShowCasePro.git
+cd ShowCasePro
 ```
 
 2. **Install dependencies**
