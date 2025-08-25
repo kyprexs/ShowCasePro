@@ -6,8 +6,8 @@ const nextConfig = {
     unoptimized: true
   },
   // Configure for GitHub Pages deployment
-  basePath: process.env.NODE_ENV === 'production' ? '/showcasepro' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/showcasepro/' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/ShowCasePro' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/ShowCasePro/' : '',
 }
 
 export default nextConfig
