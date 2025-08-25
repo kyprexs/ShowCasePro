@@ -4,7 +4,7 @@
   <h1>🚀 ShowcasePro</h1>
   <p><strong>A modern, responsive portfolio template for developers, designers, and professionals</strong></p>
   
-  ![ShowcasePro Preview](https://via.placeholder.com/1200x600/0ea5e9/ffffff?text=ShowcasePro+Portfolio+Template)
+  ![ShowcasePro Preview](https://placehold.co/1200x600/0ea5e9/ffffff/png?text=ShowcasePro+Portfolio+Template&font=roboto)
   
   <p>
     <a href="#-demo">Live Demo</a> •
@@ -35,8 +35,8 @@ Built with Next.js 14, TypeScript, and Tailwind CSS, ShowcasePro is designed for
 ### Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x400/0ea5e9/ffffff?text=Desktop+Hero+Section" alt="Desktop Hero" width="45%">
-  <img src="https://via.placeholder.com/300x600/0ea5e9/ffffff?text=Mobile+Responsive" alt="Mobile View" width="25%">
+  <img src="https://placehold.co/600x400/0ea5e9/ffffff/png?text=Desktop+Hero+Section&font=roboto" alt="Desktop Hero" width="45%">
+  <img src="https://placehold.co/300x600/0ea5e9/ffffff/png?text=Mobile+Responsive&font=roboto" alt="Mobile View" width="25%">
 </div>
 
 <details>
